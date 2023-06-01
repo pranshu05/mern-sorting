@@ -1,2 +1,0 @@
-PORT=0.0.0.0
-MONGO_URI=mongodb+srv://dipaligharattmc:khaterdor@cluster0.p5j6jnk.mongodb.net/?retryWrites=true&w=majority
